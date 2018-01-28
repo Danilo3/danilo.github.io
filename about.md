@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About me
+Парень из глубинки. Учусь готовить Java. Ищу работу
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Связаться со мной можно перейдя по ссылкам внизу 
