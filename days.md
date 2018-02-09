@@ -5,6 +5,7 @@ permalink: /days/
 ---
 
 ### All days:
+
 Attempt 1
     1. [День 1. Рефакторинг](http://www.javadan.blog/day1/)
     2. [День 2. Начало очередного учебного проекта](http://www.javadan.blog/day2/)
