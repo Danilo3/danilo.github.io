@@ -13,6 +13,6 @@ permalink: /days/
   4. [День 4. Netcracker](http://www.javadan.blog/day4/)
     
     ##Attempt 2
-  1.[День 1. Новое начало](http://www.javadan.blog/day1a2/)
+  1. [День 1. Новое начало](http://www.javadan.blog/day1a2/)
  
 
