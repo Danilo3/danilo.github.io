@@ -17,8 +17,6 @@ title: Введение в Spring Data
  
  В качестве примера: 
  {% highlight java %}
-    
-    
     public interface UserRepository extends MongoRepository<User, String> { 
         @Query("{ fullName: ?0 }")
         List<User> findByTheUsersFullName(String fullName);
@@ -29,7 +27,6 @@ title: Введение в Spring Data
 
 @Autowired 
 UserRepository repo;
-
 {% endhighlight %} 
 
 
