@@ -16,7 +16,7 @@ title: Введение в Spring Data
  Template обьекты - являются довольно мощными и позволяют писать свои имплементации репозиториев. Но со репозиториями Spring Data возможно писать одни интерфейсы с поисковыми методами, сигнатура которых удовлетворяет некоторым конвенциям(которые могут различаться в зависимости от вида персистентности)
  
  В качестве примера: 
- {% highlight java}
+ {% highlight java %}
     
     
     public interface UserRepository extends MongoRepository<User, String> { 
@@ -30,4 +30,4 @@ title: Введение в Spring Data
 @Autowired 
 UserRepository repo;
 
-{% endhighlight} 
+{% endhighlight %} 
