@@ -1,5 +1,5 @@
 ---
-published: true
+title: Введение в Spring Data
 layout: post
 ---
 ## Введение в Spring Data
