@@ -4,7 +4,7 @@ title: Введение в Spring Data
 
 ---
 
-## Введение в Spring Data
+Перевод [статьи](https://www.infoq.com/articles/spring-data-intro)
 
 
  Spring Data - это выскоуровневый проект целью которого является обьединить и легко использовать доступ к различными видам хранения, как реляционных баз данных, так и nosql
@@ -31,3 +31,5 @@ title: Введение в Spring Data
 UserRepository repo;
 
 {% endhighlight %} 
+
+
