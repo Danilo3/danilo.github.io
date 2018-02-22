@@ -1,5 +1,5 @@
 ---
-published: true
+title: Заметка о netflix
 layout: post
 ---
 ## Netflix 
