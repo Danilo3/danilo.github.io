@@ -1,7 +1,8 @@
 ---
-title: Заметка о netflix
 layout: post
+title: Заметка о netflix
 ---
+
 ## Netflix 
 
 ![Netflix oss](/images/netflix.png)
