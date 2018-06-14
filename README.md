@@ -1,1 +1,1 @@
-### [Java Blog / 100-days java-education challenge](http://www.javadan.blog/)
+### [Java Blog](http://www.javadan.blog/)
