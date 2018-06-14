@@ -18,3 +18,5 @@ permalink: /days/
 2. [День 2. docker and persistence](http://www.javadan.blog/day2a2/)
 3. [День 3. Кофемолка](http://www.javadan.blog/day3a2/)
 
+#### Attempt 3
+1. [День 1. Еще одно начало](http://www.javadan.blog/day1a3/)
