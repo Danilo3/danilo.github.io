@@ -31,13 +31,13 @@ FXMLLoader будет выполнять дополнительную обраб
 
 Разрешение местоположения используется в файле FXML для указания местоположения файла CSS. Таблица стилей
 атрибут имеет значение location " @ResolutionAndBindingExample.стиль CSS”:
-
+{% highlight java %}
 <VBox id="vbox" alignment="CENTER_LEFT" maxHeight="-Infinity" maxWidth="-Infinity"
 minHeight="-Infinity"
       minWidth="-Infinity" prefHeight="200.0" prefWidth="700.0" spacing="10.0"
       stylesheets="@ResolutionAndBindingExample.css" xmlns="http://javafx.com/javafx/8"
       xmlns:fx="http://javafx.com/fxml/1" fx:controller="ResolutionAndBindingController">
-      
+{% endhighlight %}      
 Таблица стилей задает Цвет фона VBox в azure. Разрешение ресурсов используется для задания текста
 для трех меток в программе:
 <Текст метки=" % location">
