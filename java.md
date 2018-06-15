@@ -8,3 +8,6 @@ permalink: /java/
 
 #### Java Core
 
+#### JavaFX
+
+#### Java EE
