@@ -51,3 +51,5 @@ private VBox details;
 private IncludeExampleDetailController detailsController;
 
 {% endhighlight %}
+
+
