@@ -9,5 +9,5 @@ permalink: /java/
 #### Java Core
 
 #### JavaFX
-
+ - [Привязка и разрешение имен](http://www.javadan.blog/resolution)
 #### Java EE
